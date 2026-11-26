@@ -5,7 +5,7 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:23:24 +0000</lastBuildDate>
     <item>
       <title>Aprilia, da Martin e Bezzecchi: dal clima di gelo alla squadra campione del mondo</title>
       <link>https://www.speedweek.com/a/motogp/aprilia-martin-bezzecchi-von-der-eiszeit-stimmung-zum-weltmeisterteam</link>
@@ -565,6 +565,13 @@
       <guid isPermaLink="true">https://www.speedweek.com/a/superbike-wm/superbike-test-jerez-bimota-kawasaki-vor-honda-yamaha</guid>
       <pubDate>Wed, 25 Nov 2026 18:03:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>Giacomo Agostini prova a mettere pace tra Rossi e Marquez: "Li invito a cena e offro io"</title>
+      <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331272/giacomo_agostini_prova_a_mettere_pace_tra_rossi_e_marquez_li_invito_a_cena_e_offro_io</link>
+      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331272/giacomo_agostini_prova_a_mettere_pace_tra_rossi_e_marquez_li_invito_a_cena_e_offro_io</guid>
+      <pubDate>Wed, 25 Nov 2026 17:00:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
     <item>
       <title>Bagnaia-Ducati, addio amaro senza l'ultimo GP: a Valencia c'è Lecuona</title>
@@ -1398,13 +1405,6 @@
       <guid isPermaLink="true">https://motomatters.com/standings/2026/11/22/2026_moto3_championship_standings_after.html</guid>
       <pubDate>Sun, 22 Nov 2026 12:05:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
-    </item>
-    <item>
-      <title>MotoGP, come cambia la classifica dopo il GP di Portimao</title>
-      <link>https://www.motosprint.it/foto/motomondiale/moto-gp/2026/11/22-9320272/motogp_come_cambia_la_classifica_dopo_il_gp_di_portimao</link>
-      <guid isPermaLink="true">https://www.motosprint.it/foto/motomondiale/moto-gp/2026/11/22-9320272/motogp_come_cambia_la_classifica_dopo_il_gp_di_portimao</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
   </channel>
 </rss>
