@@ -5,7 +5,14 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:22:16 +0000</lastBuildDate>
+    <item>
+      <title>Aprilia, da Martin e Bezzecchi: dal clima di gelo alla squadra campione del mondo</title>
+      <link>https://www.speedweek.com/a/motogp/aprilia-martin-bezzecchi-von-der-eiszeit-stimmung-zum-weltmeisterteam</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/aprilia-martin-bezzecchi-von-der-eiszeit-stimmung-zum-weltmeisterteam</guid>
+      <pubDate>Thu, 26 Nov 2026 21:25:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
     <item>
       <title>Titolo in tasca ma concentrazione al massimo per Márquez: la missione Ducati e il messaggio a Bagnaia</title>
       <link>https://www.motosprint.it/news/eventi/gp-valencia/2026/11/26-9334274/titolo_in_tasca_ma_concentrazione_al_massimo_per_mrquez_la_missione_ducati_e_il_messaggio_a_bagnaia</link>
@@ -217,6 +224,13 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
+      <title>Una Desmosedici tutta bianca per Bagnaia: le foto</title>
+      <link>https://www.motosprint.it/foto/motomondiale/moto-gp/2026/11/26-9334828/una_desmosedici_tutta_bianca_per_bagnaia_le_foto</link>
+      <guid isPermaLink="true">https://www.motosprint.it/foto/motomondiale/moto-gp/2026/11/26-9334828/una_desmosedici_tutta_bianca_per_bagnaia_le_foto</guid>
+      <pubDate>Thu, 26 Nov 2026 17:29:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
+    </item>
+    <item>
       <title>Álex Márquez: «Gresini è stata come una seconda opportunità nella mia vita in MotoGP»</title>
       <link>https://www.motosan.es/motogp/alex-marquez-gresini-ha-sido-como-una-segunda-oportunidad-en-mi-vida-en-motogp/</link>
       <guid isPermaLink="true">https://www.motosan.es/motogp/alex-marquez-gresini-ha-sido-como-una-segunda-oportunidad-en-mi-vida-en-motogp/</guid>
@@ -259,6 +273,13 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
     </item>
     <item>
+      <title>«Cheste rimuove il murale di Valentino Rossi e apre la porta a un omaggio a Marc Márquez»</title>
+      <link>https://www.todocircuito.com/noticias/43613-cheste-retira-el-mural-de-valentino-rossi-y-abre-la-puerta-a-un-homenaje-a-marc-marquez.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43613-cheste-retira-el-mural-de-valentino-rossi-y-abre-la-puerta-a-un-homenaje-a-marc-marquez.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:31:04 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
       <title>Marc VDS lascia i Gran Premi dopo 17 stagioni: Valencia sarà l'ultimo</title>
       <link>https://www.corsedimoto.com/motogp/marc-vds-lascia-i-gran-premi-dopo-17-stagioni-valencia-sara-lultimo</link>
       <guid isPermaLink="true">https://www.corsedimoto.com/motogp/marc-vds-lascia-i-gran-premi-dopo-17-stagioni-valencia-sara-lultimo</guid>
@@ -287,6 +308,13 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
+      <title>«Peter Hickman batte un record di 16 anni con pneumatici non ancora in vendita»</title>
+      <link>https://www.todocircuito.com/noticias/43612-peter-hickman-acaba-con-un-record-de-16-anos-con-unos-neumaticos-que-todavia-no-se-venden.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43612-peter-hickman-acaba-con-un-record-de-16-anos-con-unos-neumaticos-que-todavia-no-se-venden.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:06:50 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
       <title>Bezzecchi avvisa Jorge Martín: «Lotteremo con forza per chiudere secondi»</title>
       <link>https://www.motosan.es/motogp/bezzecchi-avisa-a-jorge-martin-lucharemos-con-fuerza-por-acabar-segundos/</link>
       <guid isPermaLink="true">https://www.motosan.es/motogp/bezzecchi-avisa-a-jorge-martin-lucharemos-con-fuerza-por-acabar-segundos/</guid>
@@ -301,11 +329,25 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
     </item>
     <item>
+      <title>Marquez: "Costruttori? Il titolo più importante è già nostro". VIDEO</title>
+      <link>https://sport.sky.it/motogp/2026/11/26/marquez-oggi-gp-valencia-motogp-intervista</link>
+      <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/26/marquez-oggi-gp-valencia-motogp-intervista</guid>
+      <pubDate>Thu, 26 Nov 2026 14:26:40 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
+    </item>
+    <item>
       <title>Honda, Joan Mir rientra per il GP Valencia: correrà la sua ultima gara con Hrc</title>
       <link>https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</link>
       <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</guid>
       <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
+    </item>
+    <item>
+      <title>Test Superbike a Jerez, a metà del secondo giorno: Bimota davanti alla Honda, Lowes migliora</title>
+      <link>https://www.speedweek.com/a/superbike-wm/superbike-test-jerez-bimota-vor-honda</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/superbike-wm/superbike-test-jerez-bimota-vor-honda</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
       <title>Marini saluta Honda: "Sei stata il mio sogno"</title>
@@ -1363,48 +1405,6 @@
       <guid isPermaLink="true">https://www.motosprint.it/foto/motomondiale/moto-gp/2026/11/22-9320272/motogp_come_cambia_la_classifica_dopo_il_gp_di_portimao</guid>
       <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Marc Márquez è campione del Mondo: tutte le foto dei festeggiamenti</title>
-      <link>https://www.motosprint.it/foto/eventi/gp-portimao/2026/11/22-9320260/marc_ma_rquez_e_campione_del_mondo_tutte_le_foto_dei_festeggiamenti</link>
-      <guid isPermaLink="true">https://www.motosprint.it/foto/eventi/gp-portimao/2026/11/22-9320260/marc_ma_rquez_e_campione_del_mondo_tutte_le_foto_dei_festeggiamenti</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Marc Márquez è campione del mondo per la decima volta: tutte le tappe della sua incredibile carriera</title>
-      <link>https://www.motosprint.it/foto/eventi/gp-portimao/2026/11/22-9310268/marc_ma_rquez_e_campione_del_mondo_per_la_decima_volta_tutte_le_tappe_della_sua_incredibile_carriera</link>
-      <guid isPermaLink="true">https://www.motosprint.it/foto/eventi/gp-portimao/2026/11/22-9310268/marc_ma_rquez_e_campione_del_mondo_per_la_decima_volta_tutte_le_tappe_della_sua_incredibile_carriera</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>«Era nelle mani di Marc»: come Jorge Martin ha vissuto la caduta di Marquez</title>
-      <link>https://www.motorsport-total.com/motogp/news/es-lag-in-marcs-haenden-wie-jorge-martin-den-marquez-crash-erlebte-26112106</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/es-lag-in-marcs-haenden-wie-jorge-martin-den-marquez-crash-erlebte-26112106</guid>
-      <pubDate>Sat, 21 Nov 2026 19:17:41 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>«A due giri dalla fine ho pensato che Márquez avesse già vinto il Mondiale», ammette Martín</title>
-      <link>https://www.todocircuito.com/noticias/43566-a-dos-vueltas-para-el-final-he-pensado-que-marquez-ya-habia-ganado-el-mundial-reconoce-martin.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43566-a-dos-vueltas-para-el-final-he-pensado-que-marquez-ya-habia-ganado-el-mundial-reconoce-martin.html</guid>
-      <pubDate>Sat, 21 Nov 2026 19:09:14 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Né vincere né salire sul podio: il risultato che serve a Marc Márquez per essere campione domenica</title>
-      <link>https://www.todocircuito.com/noticias/43565-ni-ganar-ni-subir-al-podio:-el-resultado-que-necesita-marc-marquez-para-ser-campeon-este-domingo.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43565-ni-ganar-ni-subir-al-podio:-el-resultado-que-necesita-marc-marquez-para-ser-campeon-este-domingo.html</guid>
-      <pubDate>Sat, 21 Nov 2026 18:30:24 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>«Troppo ottimista»: Marc Marquez spiega la caduta nella Sprint di Portimao</title>
-      <link>https://www.motorsport-total.com/motogp/news/zu-optimistisch-marc-marquez-erklaert-sprint-crash-in-portimao-26112105</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/zu-optimistisch-marc-marquez-erklaert-sprint-crash-in-portimao-26112105</guid>
-      <pubDate>Sat, 21 Nov 2026 18:00:46 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
     </item>
   </channel>
 </rss>
