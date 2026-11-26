@@ -5,7 +5,14 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:17:09 +0000</lastBuildDate>
+    <item>
+      <title>Honda, Joan Mir rientra per il GP Valencia: correrà la sua ultima gara con Hrc</title>
+      <link>https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</link>
+      <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
+    </item>
     <item>
       <title>Sergio Garcia dice stop: un addio amaro, ma "Ho realizzato il mio sogno"</title>
       <link>https://www.corsedimoto.com/in-pista/moto2-sergio-garcia-ritiro-addio-amaro-ma-realizzato-sogno-moto3-sbk</link>
@@ -311,6 +318,13 @@
       <title>Classifica 2026 della cadute in SBK: "vince" Sam Lowes, "perde" Axel Bassani</title>
       <link>https://www.motosprint.it/news/sbk/superbike/2026/11/25-9329071/classifica_2026_della_cadute_in_sbk_vince_sam_lowes_perde_axel_bassani</link>
       <guid isPermaLink="true">https://www.motosprint.it/news/sbk/superbike/2026/11/25-9329071/classifica_2026_della_cadute_in_sbk_vince_sam_lowes_perde_axel_bassani</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
+    </item>
+    <item>
+      <title>All'attacco di Jerez: test SBK "utile" per la rivoluzione 2027</title>
+      <link>https://www.motosprint.it/news/sbk/2026/11/25-9328390/all_attacco_di_jerez_test_sbk_utile_per_la_rivoluzione_2027</link>
+      <guid isPermaLink="true">https://www.motosprint.it/news/sbk/2026/11/25-9328390/all_attacco_di_jerez_test_sbk_utile_per_la_rivoluzione_2027</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
