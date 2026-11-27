@@ -5,7 +5,14 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:21:43 +0000</lastBuildDate>
+    <item>
+      <title>Finale a Valencia: quando e dove seguire le sessioni di MotoGP, Moto2 e Moto3</title>
+      <link>https://www.speedweek.com/a/motogp/motogp-saisonfinale-valencia-2026-tv-zeiten</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/motogp-saisonfinale-valencia-2026-tv-zeiten</guid>
+      <pubDate>Fri, 27 Nov 2026 06:15:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
     <item>
       <title>Valencia MotoGP Thursday Round Up: Fond Farewells, And The Fear Of The 1000s</title>
       <link>https://motomatters.com/analysis/2026/11/26/valencia_motogp_thursday_round_up_fond.html</link>
@@ -1397,13 +1404,6 @@
       <link>https://www.motorsport-total.com/motogp/news/valentino-rossi-ueberholt-marc-marquez-ist-motogp-weltmeister-2026-26112203</link>
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/valentino-rossi-ueberholt-marc-marquez-ist-motogp-weltmeister-2026-26112203</guid>
       <pubDate>Sun, 22 Nov 2026 14:55:17 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>MotoGP Portimao 2026: vince Bezzecchi, Marc Marquez è campione del mondo</title>
-      <link>https://www.motorsport-total.com/motogp/news/motogp-portimao-2026-bezzecchi-siegt-marc-marquez-ist-weltmeister-26112202</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-portimao-2026-bezzecchi-siegt-marc-marquez-ist-weltmeister-26112202</guid>
-      <pubDate>Sun, 22 Nov 2026 14:52:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
     </item>
   </channel>
