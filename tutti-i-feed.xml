@@ -5,13 +5,48 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:21:43 +0000</lastBuildDate>
+    <item>
+      <title>«"ChatGPT mi ha aiutato a fare i cartelli": così Marc Márquez ha preparato il suo addio alla MotoGP»</title>
+      <link>https://www.todocircuito.com/noticias/43624-chatgpt-me-ayudo-a-hacer-los-carteles:-asi-preparo-marc-marquez-su-adios-a-motogp.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43624-chatgpt-me-ayudo-a-hacer-los-carteles:-asi-preparo-marc-marquez-su-adios-a-motogp.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:16:39 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>2026 Valencia Moto3 Practice Result: Almansa Claims The Lap Record</title>
+      <link>https://motomatters.com/race_or_practice_result/2026/11/27/2026_valencia_moto3_practice_result.html</link>
+      <guid isPermaLink="true">https://motomatters.com/race_or_practice_result/2026/11/27/2026_valencia_moto3_practice_result.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:10:17 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
+    </item>
+    <item>
+      <title>Prove Moto3 a Valencia: Almansa con il giro record, Rammerstorfer cade</title>
+      <link>https://www.speedweek.com/a/moto3/zeittraining-valencia-almansa-mit-rekordrunde-rammerstorfer-mit-sturz</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/moto3/zeittraining-valencia-almansa-mit-rekordrunde-rammerstorfer-mit-sturz</guid>
+      <pubDate>Fri, 27 Nov 2026 14:02:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>Pedrosa: «Ha imparato da me, lo stesso ha fatto con Rossi e con Lorenzo; ha fuso tutto con la grazia che ha Márquez»</title>
+      <link>https://www.motosan.es/motogp/pedrosa-aprendio-de-mi-lo-mismo-hizo-con-rossi-y-con-lorenzo-lo-fusiono-todo-con-la-gracia-que-tiene-marquez/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motogp/pedrosa-aprendio-de-mi-lo-mismo-hizo-con-rossi-y-con-lorenzo-lo-fusiono-todo-con-la-gracia-que-tiene-marquez/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:58:07 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
+    </item>
     <item>
       <title>"Soffrivo, i risultati coprivano la situazione": Marc Marquez commosso spiega il ritiro dalla MotoGP</title>
       <link>https://www.corsedimoto.com/motogp/a-volte-non-servono-motivi-ma-marc-marquez-commosso-spiega-il-ritiro-dalla-motogp</link>
       <guid isPermaLink="true">https://www.corsedimoto.com/motogp/a-volte-non-servono-motivi-ma-marc-marquez-commosso-spiega-il-ritiro-dalla-motogp</guid>
       <pubDate>Fri, 27 Nov 2026 13:20:39 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Marc Márquez confessa i motivi del ritiro: «Ho iniziato a sentire la paura, ho avuto di nuovo la diplopia»</title>
+      <link>https://www.motosan.es/motogp/marc-marquez-confiesa-los-motivos-de-su-retirada-he-empezado-a-sentir-el-miedo-volvi-a-tener-diplopia/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motogp/marc-marquez-confiesa-los-motivos-de-su-retirada-he-empezado-a-sentir-el-miedo-volvi-a-tener-diplopia/</guid>
+      <pubDate>Fri, 27 Nov 2026 12:40:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
     </item>
     <item>
       <title>Alberto Puig si rallegra del ritiro di Marc Márquez e spiega perché: «È la decisione giusta»</title>
@@ -1370,41 +1405,6 @@
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/bester-flug-des-jahres-so-erlebte-moreira-seinen-portimao-highsider-26112401</guid>
       <pubDate>Tue, 24 Nov 2026 08:12:05 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Marquez: "Non ho ricevuto le congratulazioni da Rossi, ma lo rispetto"</title>
-      <link>https://sport.sky.it/motogp/2026/11/23/marc-marquez-valentino-rossi-conferenza-campione-motogp-2026</link>
-      <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/23/marc-marquez-valentino-rossi-conferenza-campione-motogp-2026</guid>
-      <pubDate>Mon, 23 Nov 2026 18:30:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
-    </item>
-    <item>
-      <title>Fabio Quartararo sul campione Marc Marquez: «La festa per la vittoria dice tutto!»</title>
-      <link>https://www.speedweek.com/a/motogp/quartararo-ueber-marc-marquez-motogp-groesster-aller-zeiten</link>
-      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/quartararo-ueber-marc-marquez-motogp-groesster-aller-zeiten</guid>
-      <pubDate>Mon, 23 Nov 2026 18:02:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
-    </item>
-    <item>
-      <title>Marc Márquez: «La congratulazione di Rossi? Non è arrivata, né me l'aspetto»</title>
-      <link>https://www.todocircuito.com/noticias/43587-marc-marquez:-la-felicitacion-de-rossi-no-ha-llegado-ni-la-espero.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43587-marc-marquez:-la-felicitacion-de-rossi-no-ha-llegado-ni-la-espero.html</guid>
-      <pubDate>Mon, 23 Nov 2026 17:47:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>«Andremo avanti»: il CEO Ducati risponde alle voci di ritiro di Marquez</title>
-      <link>https://www.motorsport-total.com/motogp/news/werden-weitermachen-ducati-ceo-kontert-marquez-ruecktrittsgeruechte-26112305</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/werden-weitermachen-ducati-ceo-kontert-marquez-ruecktrittsgeruechte-26112305</guid>
-      <pubDate>Mon, 23 Nov 2026 17:38:04 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Pedro Acosta ha vinto in Austria e da allora non capisce cosa succeda alla sua KTM: «Ha smesso di funzionare»</title>
-      <link>https://www.todocircuito.com/noticias/43586-pedro-acosta-gano-en-austria-y-desde-entonces-no-entiende-que-le-pasa-a-su-ktm:-dejo-de-funcionar.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43586-pedro-acosta-gano-en-austria-y-desde-entonces-no-entiende-que-le-pasa-a-su-ktm:-dejo-de-funcionar.html</guid>
-      <pubDate>Mon, 23 Nov 2026 17:23:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
 </rss>
