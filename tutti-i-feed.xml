@@ -5,7 +5,28 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:22:48 +0000</lastBuildDate>
+    <item>
+      <title>'Diggia' pronto per KTM, ma VR46 ci scherza su</title>
+      <link>https://www.corsedimoto.com/motogp/diggia-pronto-per-ktm-ma-vr46-ci-scherza-su</link>
+      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/diggia-pronto-per-ktm-ma-vr46-ci-scherza-su</guid>
+      <pubDate>Fri, 27 Nov 2026 09:21:28 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Jake Dixon e la nuova Honda Superbike 2027 a Jerez: nonostante la caduta, il pilota inglese è soddisfatto</title>
+      <link>https://www.speedweek.com/a/superbike-wm/jake-dixon-jerez-test-honda-sturz-superbike</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/superbike-wm/jake-dixon-jerez-test-honda-sturz-superbike</guid>
+      <pubDate>Fri, 27 Nov 2026 09:19:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>MotoGP-Liveticker Valencia: finale di stagione! L'ultimo venerdì di prove del 2026</title>
+      <link>https://www.motorsport-total.com/motogp/news/motogp-liveticker-valencia-saisonfinale-der-letzte-trainingsfreitag-2026-26112702</link>
+      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-liveticker-valencia-saisonfinale-der-letzte-trainingsfreitag-2026-26112702</guid>
+      <pubDate>Fri, 27 Nov 2026 09:06:06 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
+    </item>
     <item>
       <title>Marc Marquez riparte da zero: come si guideranno le MotoGP 850?</title>
       <link>https://www.corsedimoto.com/motogp/marc-marquez-riparte-da-zero-come-si-guideranno-le-motogp-850</link>
@@ -1383,27 +1404,6 @@
       <link>https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</link>
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</guid>
       <pubDate>Sun, 22 Nov 2026 17:28:25 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Perdente e vincitore Martin (Aprilia): «Alla fine sono una persona migliore»</title>
-      <link>https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</link>
-      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</guid>
-      <pubDate>Sun, 22 Nov 2026 17:25:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
-    </item>
-    <item>
-      <title>Diretta MotoGP Portimao: Marquez è campione del mondo! Tripletta Aprilia sul podio</title>
-      <link>https://www.motorsport-total.com/motogp/news/motogp-liveticker-portimao-marquez-ist-weltmeister-aprilia-trio-auf-dem-podest-26112201</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-liveticker-portimao-marquez-ist-weltmeister-aprilia-trio-auf-dem-podest-26112201</guid>
-      <pubDate>Sun, 22 Nov 2026 17:04:55 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Marc Márquez fa la storia: dieci titoli mondiali dopo una gara che si è quasi complicata</title>
-      <link>https://www.todocircuito.com/noticias/43571-marc-marquez-hace-historia:-diez-titulos-mundiales-despues-de-una-carrera-que-casi-se-le-complica.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43571-marc-marquez-hace-historia:-diez-titulos-mundiales-despues-de-una-carrera-que-casi-se-le-complica.html</guid>
-      <pubDate>Sun, 22 Nov 2026 15:51:55 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
