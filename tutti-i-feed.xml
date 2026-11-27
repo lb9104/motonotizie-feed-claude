@@ -5,7 +5,7 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:47:15 +0000</lastBuildDate>
     <item>
       <title>Marc Marquez, decimo titolo mondiale in MotoGP nel 2026</title>
       <link>https://www.speedweek.com/a/motogp/marc-marquez-zehnter-motogp-wm-titel-2026-2026-11-23</link>
@@ -1092,13 +1092,6 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
     </item>
     <item>
-      <title>Iker Lecuona fa bella figura in MotoGP: missione compiuta anche a Portimao</title>
-      <link>https://www.corsedimoto.com/motogp/iker-lecuona-bella-figura-motogp-missione-compiuta-portimao</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/iker-lecuona-bella-figura-motogp-missione-compiuta-portimao</guid>
-      <pubDate>Mon, 23 Nov 2026 19:40:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>Marquez: "Non ho ricevuto le congratulazioni da Rossi, ma lo rispetto"</title>
       <link>https://sport.sky.it/motogp/2026/11/23/marc-marquez-valentino-rossi-conferenza-campione-motogp-2026</link>
       <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/23/marc-marquez-valentino-rossi-conferenza-campione-motogp-2026</guid>
@@ -1134,20 +1127,6 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
-      <title>Marquez e il silenzio di Valentino Rossi sul decimo titolo: "Non mi aspetto un messaggio"</title>
-      <link>https://www.corsedimoto.com/motogp/marc-marquez-valentino-rossi-decimo-titolo-motogp-messaggio</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/marc-marquez-valentino-rossi-decimo-titolo-motogp-messaggio</guid>
-      <pubDate>Mon, 23 Nov 2026 17:10:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
-      <title>Ducati, una famiglia e il ritorno di Eugene Laverty: che sorpresa per il 2027!</title>
-      <link>https://www.corsedimoto.com/in-pista/ritorno-sorpresa-eugene-laverty-fleetsafe-ducati-bsb-superbike-motogp-2027</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/in-pista/ritorno-sorpresa-eugene-laverty-fleetsafe-ducati-bsb-superbike-motogp-2027</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>La Ducati ha già scelto chi avrà le migliori MotoGP del 2027. E due piloti restano fuori</title>
       <link>https://www.todocircuito.com/noticias/43585-ducati-ya-ha-elegido-quien-tendra-las-mejores-motogp-de-2027.-y-hay-dos-pilotos-que-se-quedan-fuera.html</link>
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43585-ducati-ya-ha-elegido-quien-tendra-las-mejores-motogp-de-2027.-y-hay-dos-pilotos-que-se-quedan-fuera.html</guid>
@@ -1160,13 +1139,6 @@
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43584-marc-marquez-tiene-un-bmw-de-104.500-euros-casi-ganado-pero-bezzecchi-puede-quitarselo.html</guid>
       <pubDate>Mon, 23 Nov 2026 15:09:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Bagnaia, ultimo valzer prima di passare in Aprilia: "Ducati, ti ho amata follemente"</title>
-      <link>https://www.corsedimoto.com/motogp/pecco-bagnaia-ultimo-valzer-ducati-valencia-aprilia-motogp</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/pecco-bagnaia-ultimo-valzer-ducati-valencia-aprilia-motogp</guid>
-      <pubDate>Mon, 23 Nov 2026 15:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
     </item>
     <item>
       <title>Il fondatore di ZXMOTO prova a guidare la sua moto da corsa e finisce per diventare protagonista di un video virale</title>
@@ -1288,13 +1260,6 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
     <item>
-      <title>Jorge Martin, una sconfitta figlia del 2025: "Ecco cosa mi è mancato"</title>
-      <link>https://www.corsedimoto.com/motogp/jorge-martin-sconfitta-marquez-motogp-cosa-mancato</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/jorge-martin-sconfitta-marquez-motogp-cosa-mancato</guid>
-      <pubDate>Mon, 23 Nov 2026 11:55:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>Infortunio ed errori: Bezzecchi spiega la sua sconfitta nel Mondiale</title>
       <link>https://www.motorsport-total.com/motogp/news/verletzung-und-fehler-bezzecchi-erklaert-seine-wm-niederlage-26112303</link>
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/verletzung-und-fehler-bezzecchi-erklaert-seine-wm-niederlage-26112303</guid>
@@ -1309,13 +1274,6 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
-      <title>Il riscatto di papà Marquez: "Grazie per esservi sbagliati"</title>
-      <link>https://www.corsedimoto.com/motogp/il-riscatto-di-papa-marquez-grazie-per-esservi-sbagliati</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/il-riscatto-di-papa-marquez-grazie-per-esservi-sbagliati</guid>
-      <pubDate>Mon, 23 Nov 2026 10:45:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>Titolo mondiale perso: Jorge Martin spiega apertamente cosa gli è mancato contro Marquez</title>
       <link>https://www.motorsport-total.com/motogp/news/wm-titel-verloren-jorge-martin-erklaert-offen-was-gegen-marquez-fehlte-26112302</link>
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/wm-titel-verloren-jorge-martin-erklaert-offen-was-gegen-marquez-fehlte-26112302</guid>
@@ -1323,39 +1281,11 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
     </item>
     <item>
-      <title>"Emozionato, come un bambino": Loris Baz riabbraccia il British Superbike nel 2027</title>
-      <link>https://www.corsedimoto.com/in-pista/ufficiale-loris-baz-bsb-british-superbike-bmw-2027</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/in-pista/ufficiale-loris-baz-bsb-british-superbike-bmw-2027</guid>
-      <pubDate>Mon, 23 Nov 2026 10:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>Chi ha dormito meglio la scorsa notte: Marc Marquez</title>
       <link>https://www.motorsport-total.com/motogp/news/wer-letzte-nacht-am-besten-geschlafen-hat-marc-marquez-26112301</link>
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/wer-letzte-nacht-am-besten-geschlafen-hat-marc-marquez-26112301</guid>
       <pubDate>Mon, 23 Nov 2026 09:36:30 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Marquez e la scaramanzia prima del titolo: la rivelazione di Gemma Pinto</title>
-      <link>https://www.corsedimoto.com/motogp/marquez-e-la-scaramanzia-prima-del-titolo-la-rivelazione-di-gemma-pinto</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/marquez-e-la-scaramanzia-prima-del-titolo-la-rivelazione-di-gemma-pinto</guid>
-      <pubDate>Mon, 23 Nov 2026 09:26:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
-      <title>Jonathan Rea, ma quale ritiro? Com'è dolce fare il test Honda HRC e continua a vincere</title>
-      <link>https://www.corsedimoto.com/superbike/jonathan-rea-ma-quale-ritiro-come-dolce-fare-il-test-honda-hrc-e-continua-a-vincere</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/superbike/jonathan-rea-ma-quale-ritiro-come-dolce-fare-il-test-honda-hrc-e-continua-a-vincere</guid>
-      <pubDate>Mon, 23 Nov 2026 08:26:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
-      <title>Quartararo incorona Marc Marquez dopo il decimo titolo: «È il più grande, il più intelligente e il più veloce»</title>
-      <link>https://www.corsedimoto.com/motogp/quartararo-incorona-marc-marquez-dopo-il-decimo-titolo-e-il-piu-grande-il-piu-intelligente-e-il-piu-veloce</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/quartararo-incorona-marc-marquez-dopo-il-decimo-titolo-e-il-piu-grande-il-piu-intelligente-e-il-piu-veloce</guid>
-      <pubDate>Mon, 23 Nov 2026 08:01:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
     </item>
     <item>
       <title>Portimão MotoGP Sunday Round Up: Greatness Achieved, Radios Ruining Racing, And An Anticlimactic End To An Era</title>
@@ -1379,13 +1309,6 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
-      <title>Le lacrime e la storia: Rico Salmela conquista un podio inedito per la Finlandia in Moto3</title>
-      <link>https://www.corsedimoto.com/in-pista/le-lacrime-e-la-storia-rico-salmela-conquista-un-podio-inedito-per-la-finlandia-in-moto3</link>
-      <guid isPermaLink="true">https://www.corsedimoto.com/in-pista/le-lacrime-e-la-storia-rico-salmela-conquista-un-podio-inedito-per-la-finlandia-in-moto3</guid>
-      <pubDate>Sun, 22 Nov 2026 20:15:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
       <title>Il padre di Marc Márquez si ricorda di chi non credeva in suo figlio: «Grazie per esservi sbagliati»</title>
       <link>https://www.todocircuito.com/noticias/43577-el-padre-de-marc-marquez-se-acuerda-de-quienes-no-creian-en-su-hijo:-gracias-por-equivocaros.html</link>
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43577-el-padre-de-marc-marquez-se-acuerda-de-quienes-no-creian-en-su-hijo:-gracias-por-equivocaros.html</guid>
@@ -1405,6 +1328,83 @@
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43575-me-da-verguenza-ernest-riveras-acusa-a-dazn-de-borrar-su-voz-de-los-titulos-de-marquez.html</guid>
       <pubDate>Sun, 22 Nov 2026 19:29:04 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>Pedro Acosta su Marc Marquez: «Non si preoccuperà»</title>
+      <link>https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</guid>
+      <pubDate>Sun, 22 Nov 2026 18:30:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>«Sì, ma dieci titoli»: Marc Marquez con un messaggio chiaro nel dibattito sul GOAT</title>
+      <link>https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</link>
+      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</guid>
+      <pubDate>Sun, 22 Nov 2026 18:19:53 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
+    </item>
+    <item>
+      <title>Marc Márquez aveva una regola in casa fino alla vittoria del Mondiale. Gemma Pinto l'ha appena raccontata</title>
+      <link>https://www.todocircuito.com/noticias/43574-marc-marquez-tenia-una-norma-en-casa-hasta-ganar-el-mundial.-gemma-pinto-acaba-de-contarla.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43574-marc-marquez-tenia-una-norma-en-casa-hasta-ganar-el-mundial.-gemma-pinto-acaba-de-contarla.html</guid>
+      <pubDate>Sun, 22 Nov 2026 18:16:53 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>Il 2026 del GOAT Márquez: non ha vinto fino all'8ª gara, ha ceduto 102 punti ed è finito campione</title>
+      <link>https://www.todocircuito.com/noticias/43573-el-2026-del-goat-marquez:-no-gano-hasta-la-8ª-carrera-cedio-102-puntos-y-acabo-campeon.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43573-el-2026-del-goat-marquez:-no-gano-hasta-la-8ª-carrera-cedio-102-puntos-y-acabo-campeon.html</guid>
+      <pubDate>Sun, 22 Nov 2026 17:49:01 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>Marc Márquez scoppia a piangere dopo aver vinto il decimo Mondiale: «Si fidavano di me più di quanto mi fidassi io»</title>
+      <link>https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:25 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>Perdente e vincitore Martin (Aprilia): «Alla fine sono una persona migliore»</title>
+      <link>https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</guid>
+      <pubDate>Sun, 22 Nov 2026 17:25:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>Diretta MotoGP Portimao: Marquez è campione del mondo! Tripletta Aprilia sul podio</title>
+      <link>https://www.motorsport-total.com/motogp/news/motogp-liveticker-portimao-marquez-ist-weltmeister-aprilia-trio-auf-dem-podest-26112201</link>
+      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-liveticker-portimao-marquez-ist-weltmeister-aprilia-trio-auf-dem-podest-26112201</guid>
+      <pubDate>Sun, 22 Nov 2026 17:04:55 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
+    </item>
+    <item>
+      <title>Marc Márquez fa la storia: dieci titoli mondiali dopo una gara che si è quasi complicata</title>
+      <link>https://www.todocircuito.com/noticias/43571-marc-marquez-hace-historia:-diez-titulos-mundiales-despues-de-una-carrera-que-casi-se-le-complica.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43571-marc-marquez-hace-historia:-diez-titulos-mundiales-despues-de-una-carrera-que-casi-se-le-complica.html</guid>
+      <pubDate>Sun, 22 Nov 2026 15:51:55 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>2026 MotoGP Championship Standings After Round 21, Portimão, Portugal</title>
+      <link>https://motomatters.com/standings/2026/11/22/2026_motogp_championship_standings_after.html</link>
+      <guid isPermaLink="true">https://motomatters.com/standings/2026/11/22/2026_motogp_championship_standings_after.html</guid>
+      <pubDate>Sun, 22 Nov 2026 15:39:02 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
+    </item>
+    <item>
+      <title>Tutti i campioni del mondo MotoGP dal 1949</title>
+      <link>https://www.motorsport-total.com/motogp/news/alle-motogp-weltmeister-seit-1949-20111506</link>
+      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/alle-motogp-weltmeister-seit-1949-20111506</guid>
+      <pubDate>Sun, 22 Nov 2026 15:37:30 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
+    </item>
+    <item>
+      <title>2026 Portimão MotoGP Race Result: One To Remember</title>
+      <link>https://motomatters.com/race_or_practice_result/2026/11/22/2026_portim_o_motogp_race_result_one_to.html</link>
+      <guid isPermaLink="true">https://motomatters.com/race_or_practice_result/2026/11/22/2026_portim_o_motogp_race_result_one_to.html</guid>
+      <pubDate>Sun, 22 Nov 2026 15:28:48 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
     </item>
   </channel>
 </rss>
