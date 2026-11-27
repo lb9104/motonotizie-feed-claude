@@ -5,7 +5,42 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:22:12 +0000</lastBuildDate>
+    <item>
+      <title>L'ultimo valzer di Alex Rins: "Sono triste, ma devo accettarlo"</title>
+      <link>https://www.corsedimoto.com/motogp/lultimo-valzer-di-alex-rins-sono-triste-ma-devo-accettarlo</link>
+      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/lultimo-valzer-di-alex-rins-sono-triste-ma-devo-accettarlo</guid>
+      <pubDate>Fri, 27 Nov 2026 10:21:02 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Martin saluta Aprilia in lacrime: “Siete stati incredibili, il mio team e quello di Marco come una famiglia”</title>
+      <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/27-9335945/martin_saluta_aprilia_in_lacrime_siete_stati_incredibili_il_mio_team_e_quello_di_marco_come_una_famiglia</link>
+      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/27-9335945/martin_saluta_aprilia_in_lacrime_siete_stati_incredibili_il_mio_team_e_quello_di_marco_come_una_famiglia</guid>
+      <pubDate>Fri, 27 Nov 2026 10:21:02 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
+    </item>
+    <item>
+      <title>La Moto3 parte nel segno di Fernandez: Adrian al comando nelle FP1, Pini 9°</title>
+      <link>https://www.motosprint.it/news/motomondiale/moto3/2026/11/27-9336638/la_moto3_parte_nel_segno_di_fernandez_adrian_al_comando_nelle_fp1_pini_9</link>
+      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto3/2026/11/27-9336638/la_moto3_parte_nel_segno_di_fernandez_adrian_al_comando_nelle_fp1_pini_9</guid>
+      <pubDate>Fri, 27 Nov 2026 10:21:02 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
+    </item>
+    <item>
+      <title>Di Giannantonio saluta il team di Valentino Rossi: «Il meglio è avere la mente aperta e zero aspettative»</title>
+      <link>https://www.motosan.es/motogp/di-giannantonio-se-despide-del-equipo-de-valentino-rossi-lo-mejor-es-tener-la-mente-abierta-y-cero-expectativas/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motogp/di-giannantonio-se-despide-del-equipo-de-valentino-rossi-lo-mejor-es-tener-la-mente-abierta-y-cero-expectativas/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:56:41 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
+    </item>
+    <item>
+      <title>2026 Valencia Moto3 Free Practice 1 Result: Fernandez Gets The Party Started</title>
+      <link>https://motomatters.com/race_or_practice_result/2026/11/27/2026_valencia_moto3_free_practice_1.html</link>
+      <guid isPermaLink="true">https://motomatters.com/race_or_practice_result/2026/11/27/2026_valencia_moto3_free_practice_1.html</guid>
+      <pubDate>Fri, 27 Nov 2026 09:54:44 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
+    </item>
     <item>
       <title>'Diggia' pronto per KTM, ma VR46 ci scherza su</title>
       <link>https://www.corsedimoto.com/motogp/diggia-pronto-per-ktm-ma-vr46-ci-scherza-su</link>
@@ -1369,41 +1404,6 @@
       <link>https://www.todocircuito.com/noticias/43575-me-da-verguenza-ernest-riveras-acusa-a-dazn-de-borrar-su-voz-de-los-titulos-de-marquez.html</link>
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43575-me-da-verguenza-ernest-riveras-acusa-a-dazn-de-borrar-su-voz-de-los-titulos-de-marquez.html</guid>
       <pubDate>Sun, 22 Nov 2026 19:29:04 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Pedro Acosta su Marc Marquez: «Non si preoccuperà»</title>
-      <link>https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</link>
-      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</guid>
-      <pubDate>Sun, 22 Nov 2026 18:30:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
-    </item>
-    <item>
-      <title>«Sì, ma dieci titoli»: Marc Marquez con un messaggio chiaro nel dibattito sul GOAT</title>
-      <link>https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</guid>
-      <pubDate>Sun, 22 Nov 2026 18:19:53 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Marc Márquez aveva una regola in casa fino alla vittoria del Mondiale. Gemma Pinto l'ha appena raccontata</title>
-      <link>https://www.todocircuito.com/noticias/43574-marc-marquez-tenia-una-norma-en-casa-hasta-ganar-el-mundial.-gemma-pinto-acaba-de-contarla.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43574-marc-marquez-tenia-una-norma-en-casa-hasta-ganar-el-mundial.-gemma-pinto-acaba-de-contarla.html</guid>
-      <pubDate>Sun, 22 Nov 2026 18:16:53 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Il 2026 del GOAT Márquez: non ha vinto fino all'8ª gara, ha ceduto 102 punti ed è finito campione</title>
-      <link>https://www.todocircuito.com/noticias/43573-el-2026-del-goat-marquez:-no-gano-hasta-la-8ª-carrera-cedio-102-puntos-y-acabo-campeon.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43573-el-2026-del-goat-marquez:-no-gano-hasta-la-8ª-carrera-cedio-102-puntos-y-acabo-campeon.html</guid>
-      <pubDate>Sun, 22 Nov 2026 17:49:01 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Marc Márquez scoppia a piangere dopo aver vinto il decimo Mondiale: «Si fidavano di me più di quanto mi fidassi io»</title>
-      <link>https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</guid>
-      <pubDate>Sun, 22 Nov 2026 17:28:25 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
