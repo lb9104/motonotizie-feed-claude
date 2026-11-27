@@ -5,7 +5,7 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:21:43 +0000</lastBuildDate>
     <item>
       <title>Valencia MotoGP Thursday Round Up: Fond Farewells, And The Fear Of The 1000s</title>
       <link>https://motomatters.com/analysis/2026/11/26/valencia_motogp_thursday_round_up_fond.html</link>
@@ -343,6 +343,13 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
     </item>
     <item>
+      <title>Di Giannantonio: «Una MotoGP dovrebbe far paura ogni volta»</title>
+      <link>https://www.speedweek.com/a/motogp/di-giannantonio-motogp-bike-angst-ktm-wechsel-2027-reglement</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/di-giannantonio-motogp-bike-angst-ktm-wechsel-2027-reglement</guid>
+      <pubDate>Thu, 26 Nov 2026 14:21:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
       <title>Honda, Joan Mir rientra per il GP Valencia: correrà la sua ultima gara con Hrc</title>
       <link>https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</link>
       <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/26/honda-mir-rientro-gp-valencia-news</guid>
@@ -364,11 +371,25 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
     </item>
     <item>
+      <title>Raul Fernandez critica l'organizzazione: «Sprechiamo troppa energia!»</title>
+      <link>https://www.speedweek.com/a/motogp/raul-fernandez-kritisiert-organisation-energieverschwendung</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/raul-fernandez-kritisiert-organisation-energieverschwendung</guid>
+      <pubDate>Thu, 26 Nov 2026 12:58:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
       <title>Marquez-Dall'Igna, il team radio dopo il trionfo MotoGP</title>
       <link>https://sport.sky.it/motogp/2026/11/26/marquez-dall-igna-ducati-team-radio-video</link>
       <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/26/marquez-dall-igna-ducati-team-radio-video</guid>
       <pubDate>Thu, 26 Nov 2026 12:57:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
+    </item>
+    <item>
+      <title>Luca Marini: bilancio positivo nonostante la missione Honda incompiuta</title>
+      <link>https://www.speedweek.com/a/motogp/luca-marini-trotz-unvollendeter-honda-mission-mit-positivem-fazit</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/luca-marini-trotz-unvollendeter-honda-mission-mit-positivem-fazit</guid>
+      <pubDate>Thu, 26 Nov 2026 12:41:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
       <title>MotoGp, conferenza live del Gp Valencia (Spagna) 2026</title>
@@ -425,6 +446,13 @@
       <guid isPermaLink="true">https://www.corsedimoto.com/motogp/marc-marquez-il-segreto-della-rinascita-secondo-alex-la-nave-stava-affondando</guid>
       <pubDate>Thu, 26 Nov 2026 10:44:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Il responsabile corse KTM Pit Beirer: «Le porte per Brad Binder restano sempre aperte»</title>
+      <link>https://www.speedweek.com/a/motogp/ktm-rennsportchef-pit-beirer-tueren-fuer-brad-binder-bleiben-immer-offen</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/ktm-rennsportchef-pit-beirer-tueren-fuer-brad-binder-bleiben-immer-offen</guid>
+      <pubDate>Thu, 26 Nov 2026 10:44:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
       <title>Boicottaggio del Qatar: Yamaha vuole discutere la multa «dietro le quinte»</title>
@@ -1281,6 +1309,13 @@
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
+      <title>Pedro Acosta su Marc Marquez: «Non si preoccuperà»</title>
+      <link>https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/pedro-acosta-marquez-portugal-gp-ausfall</guid>
+      <pubDate>Sun, 22 Nov 2026 18:30:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
       <title>«Sì, ma dieci titoli»: Marc Marquez con un messaggio chiaro nel dibattito sul GOAT</title>
       <link>https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</link>
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/ja-aber-zehn-titel-marc-marquez-mit-klarer-ansage-in-der-goat-debatte-26112204</guid>
@@ -1307,6 +1342,13 @@
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43572-marc-marquez-rompe-a-llorar-tras-ganar-su-decimo-mundial:-confiaban-mas-en-mi-que-yo-mismo.html</guid>
       <pubDate>Sun, 22 Nov 2026 17:28:25 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
+    </item>
+    <item>
+      <title>Perdente e vincitore Martin (Aprilia): «Alla fine sono una persona migliore»</title>
+      <link>https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/verlierer-und-sieger-jorge-martin-aprilia-am-ende-bin-ein-besserer-typ</guid>
+      <pubDate>Sun, 22 Nov 2026 17:25:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
       <title>Diretta MotoGP Portimao: Marquez è campione del mondo! Tripletta Aprilia sul podio</title>
@@ -1363,48 +1405,6 @@
       <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-portimao-2026-bezzecchi-siegt-marc-marquez-ist-weltmeister-26112202</guid>
       <pubDate>Sun, 22 Nov 2026 14:52:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Marc Marquez batte il record di Rossi: il titolo mondiale che sembrava sfuggirgli</title>
-      <link>https://www.speedweek.com/a/motogp/marc-marquez-zehnter-motogp-wm-titel-2026</link>
-      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/marc-marquez-zehnter-motogp-wm-titel-2026</guid>
-      <pubDate>Sun, 22 Nov 2026 14:45:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
-    </item>
-    <item>
-      <title>Manu González vive un incubo in Portogallo: perde quasi tutto il suo vantaggio nel Mondiale Moto2</title>
-      <link>https://www.todocircuito.com/noticias/43570-manu-gonzalez-vive-una-pesadilla-en-portugal:-pierde-casi-toda-su-ventaja-en-el-mundial-de-moto2.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43570-manu-gonzalez-vive-una-pesadilla-en-portugal:-pierde-casi-toda-su-ventaja-en-el-mundial-de-moto2.html</guid>
-      <pubDate>Sun, 22 Nov 2026 14:13:48 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>2026 Moto2 Championship Standings After Round 21, Portimão, Portugal</title>
-      <link>https://motomatters.com/standings/2026/11/22/2026_moto2_championship_standings_after.html</link>
-      <guid isPermaLink="true">https://motomatters.com/standings/2026/11/22/2026_moto2_championship_standings_after.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:42:36 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
-    </item>
-    <item>
-      <title>Il capo dell'Aprilia sorprende spiegando come affrontano le gare: «Senza troppa strategia»</title>
-      <link>https://www.todocircuito.com/noticias/43568-el-jefe-de-aprilia-sorprende-al-explicar-como-afrontan-las-carreras:-sin-demasiada-estrategia.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43568-el-jefe-de-aprilia-sorprende-al-explicar-como-afrontan-las-carreras:-sin-demasiada-estrategia.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:39:05 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>2026 Portimão Moto2 Race Result: A Red Flag Heats Up The Title Battle</title>
-      <link>https://motomatters.com/race_or_practice_result/2026/11/22/2026_portim_o_moto2_race_result_a_red.html</link>
-      <guid isPermaLink="true">https://motomatters.com/race_or_practice_result/2026/11/22/2026_portim_o_moto2_race_result_a_red.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:30:46 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
-    </item>
-    <item>
-      <title>Quiles vince una gara pazzesca a Portimão: Almansa sanzionato e Uriarte a terra</title>
-      <link>https://www.todocircuito.com/noticias/43567-quiles-gana-una-carrera-de-locos-en-portimao:-almansa-acaba-sancionado-y-uriarte-por-los-suelos.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43567-quiles-gana-una-carrera-de-locos-en-portimao:-almansa-acaba-sancionado-y-uriarte-por-los-suelos.html</guid>
-      <pubDate>Sun, 22 Nov 2026 13:15:58 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
 </rss>
