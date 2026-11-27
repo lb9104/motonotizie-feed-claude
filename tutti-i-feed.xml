@@ -5,7 +5,21 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:21:28 +0000</lastBuildDate>
+    <item>
+      <title>Acosta, niente sfida dei sogni con Marquez in Ducati: "Per me non cambia nulla"</title>
+      <link>https://www.corsedimoto.com/motogp/pedro-acosta-sfida-marc-marquez-ducati-motogp</link>
+      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/pedro-acosta-sfida-marc-marquez-ducati-motogp</guid>
+      <pubDate>Fri, 27 Nov 2026 19:20:34 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Aldeguer, dopo l'addio di Márquez: «Qui è un mondo molto egoista, se ho l'opportunità di crescere nel marchio, la preferisco»</title>
+      <link>https://www.motosan.es/motogp/aldeguer-tras-el-adios-de-marquez-aqui-es-un-mundo-muy-egoista-si-tengo-la-oportunidad-de-crecer-en-la-marca-lo-prefiero/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motogp/aldeguer-tras-el-adios-de-marquez-aqui-es-un-mundo-muy-egoista-si-tengo-la-oportunidad-de-crecer-en-la-marca-lo-prefiero/</guid>
+      <pubDate>Fri, 27 Nov 2026 18:45:10 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
+    </item>
     <item>
       <title>Bezzecchi: “Avrei voluto continuare ad imparare da Márquez”</title>
       <link>https://www.motosprint.it/news/eventi/gp-valencia/2026/11/27-9340178/bezzecchi_avrei_voluto_continuare_ad_imparare_da_mrquez</link>
@@ -1391,20 +1405,6 @@
       <guid isPermaLink="true">https://www.corsedimoto.com/motogp/pedro-acosta-punzecchia-marquez-ha-vinto-dieci-titoli-non-deve-avere-paura-di-qualcuno-che-ha-vinto-un-solo-gp</guid>
       <pubDate>Wed, 25 Nov 2026 07:55:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
-      <title>Moto2, test privato per Almansa ad Aragón verso il 2027</title>
-      <link>https://sport.sky.it/motogp/2026/11/24/moto-2-almansa-test-aragon-news</link>
-      <guid isPermaLink="true">https://sport.sky.it/motogp/2026/11/24/moto-2-almansa-test-aragon-news</guid>
-      <pubDate>Tue, 24 Nov 2026 21:10:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/skysport-motogp.xml">Sky Sport</source>
-    </item>
-    <item>
-      <title>Iker Lecuona confronta le Ducati di Álex Márquez e di Bagnaia dopo aver guidato entrambe</title>
-      <link>https://www.todocircuito.com/noticias/43596-iker-lecuona-compara-las-ducati-de-alex-marquez-y-bagnaia-tras-haber-pilotado-las-dos.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43596-iker-lecuona-compara-las-ducati-de-alex-marquez-y-bagnaia-tras-haber-pilotado-las-dos.html</guid>
-      <pubDate>Tue, 24 Nov 2026 19:51:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
 </rss>
