@@ -5,7 +5,21 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:22:44 +0000</lastBuildDate>
+    <item>
+      <title>Marc Marquez Retirement In His Own Words: Valencia Retirement Press Conference Transcript</title>
+      <link>https://motomatters.com/interview/2026/11/27/marc_marquez_retirement_in_his_own_words.html</link>
+      <guid isPermaLink="true">https://motomatters.com/interview/2026/11/27/marc_marquez_retirement_in_his_own_words.html</guid>
+      <pubDate>Fri, 27 Nov 2026 22:46:06 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
+    </item>
+    <item>
+      <title>La MotoGP senza superstar: Stefan Bradl sulla perdita di Marc Marquez</title>
+      <link>https://www.speedweek.com/a/motogp/motogp-ohne-superstar-bradl-ueber-marquez-verlust</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/motogp-ohne-superstar-bradl-ueber-marquez-verlust</guid>
+      <pubDate>Fri, 27 Nov 2026 22:22:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
     <item>
       <title>Martin: "Marquez tra i migliori atleti della storia, lo paragono a Michael Jordan". VIDEO</title>
       <link>https://sport.sky.it/motogp/2026/11/27/martin-ritiro-marc-marquez-intervista-video</link>
@@ -47,6 +61,13 @@
       <guid isPermaLink="true">https://www.motosan.es/motogp/marquez-se-retira-de-motogp-con-un-record-que-explica-su-dominio-nadie-pudo-superarle-en-su-propio-box/</guid>
       <pubDate>Fri, 27 Nov 2026 21:00:07 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
+    </item>
+    <item>
+      <title>Rivola su Marquez: «Avremmo voluto lottare contro di lui anche l'anno prossimo»</title>
+      <link>https://www.speedweek.com/a/motogp/rivola-zu-marquez-aprilia-bedauert-ruecktritt</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/rivola-zu-marquez-aprilia-bedauert-ruecktritt</guid>
+      <pubDate>Fri, 27 Nov 2026 20:44:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
     </item>
     <item>
       <title>"Ti ho ascoltato": il retroscena emozionante tra Marc Marquez e Dani Pedrosa</title>
@@ -1382,27 +1403,6 @@
       <title>Epilogo amaro: Bagnaia non correrà l'ultima gara con la Ducati a Valencia</title>
       <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331364/epilogo_amaro_bagnaia_non_correr_lultima_gara_con_la_ducati_a_valencia</link>
       <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331364/epilogo_amaro_bagnaia_non_correr_lultima_gara_con_la_ducati_a_valencia</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Una Ninja in vetta a Jerez: Gerloff e Kawasaki al top nei test di Jerez</title>
-      <link>https://www.motosprint.it/news/sbk/superbike/2026/11/25-9330602/una_ninja_in_vetta_a_jerez_gerloff_e_kawasaki_al_top_nei_test_di_jerez</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/sbk/superbike/2026/11/25-9330602/una_ninja_in_vetta_a_jerez_gerloff_e_kawasaki_al_top_nei_test_di_jerez</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Aprilia tra due fuochi a Valencia: tra il primo titolo Costruttori in MotoGP e la lotta interna</title>
-      <link>https://www.motosprint.it/news/eventi/gp-valencia/2026/11/25-9329202/aprilia_tra_due_fuochi_a_valencia_tra_il_primo_titolo_costruttori_in_motogp_e_la_lotta_interna</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/eventi/gp-valencia/2026/11/25-9329202/aprilia_tra_due_fuochi_a_valencia_tra_il_primo_titolo_costruttori_in_motogp_e_la_lotta_interna</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Classifica 2026 della cadute in SBK: "vince" Sam Lowes, "perde" Axel Bassani</title>
-      <link>https://www.motosprint.it/news/sbk/superbike/2026/11/25-9329071/classifica_2026_della_cadute_in_sbk_vince_sam_lowes_perde_axel_bassani</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/sbk/superbike/2026/11/25-9329071/classifica_2026_della_cadute_in_sbk_vince_sam_lowes_perde_axel_bassani</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
