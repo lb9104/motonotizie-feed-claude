@@ -5,7 +5,7 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:21:42 +0000</lastBuildDate>
     <item>
       <title>Valencia MotoGP Friday Round Up: Marc Marquez Causes Chaos, Retires Happy</title>
       <link>https://motomatters.com/analysis/2026/11/27/valencia_motogp_friday_round_up_marc.html</link>
@@ -75,6 +75,13 @@
       <guid isPermaLink="true">https://www.speedweek.com/a/motogp/rivola-zu-marquez-aprilia-bedauert-ruecktritt</guid>
       <pubDate>Fri, 27 Nov 2026 20:44:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>«Triumph ha reso il suo motore Moto2 più grande e potente. E per di più pesa due chili in meno»</title>
+      <link>https://www.todocircuito.com/noticias/43629-triumph-ha-hecho-su-motor-de-moto2-mas-grande-y-potente.-y-encima-pesa-dos-kilos-menos.html</link>
+      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43629-triumph-ha-hecho-su-motor-de-moto2-mas-grande-y-potente.-y-encima-pesa-dos-kilos-menos.html</guid>
+      <pubDate>Fri, 27 Nov 2026 20:35:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
     <item>
       <title>"Ti ho ascoltato": il retroscena emozionante tra Marc Marquez e Dani Pedrosa</title>
@@ -1396,13 +1403,6 @@
       <title>Valentino Rossi e il consiglio a Kimi Antonelli: "Era disperato"</title>
       <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9330191/valentino_rossi_e_il_consiglio_a_kimi_antonelli_era_disperato</link>
       <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9330191/valentino_rossi_e_il_consiglio_a_kimi_antonelli_era_disperato</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Moto3, Benat Fernandez: il debutto mondiale… di un Campione del Mondo</title>
-      <link>https://www.motosprint.it/news/motomondiale/moto3/2026/11/25-9328395/moto3_benat_fernandez_il_debutto_mondiale_di_un_campione_del_mondo</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto3/2026/11/25-9328395/moto3_benat_fernandez_il_debutto_mondiale_di_un_campione_del_mondo</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
