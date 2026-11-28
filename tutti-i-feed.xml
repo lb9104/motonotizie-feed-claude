@@ -5,7 +5,14 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:21:29 +0000</lastBuildDate>
+    <item>
+      <title>Valencia MotoGP Friday Round Up: Marc Marquez Causes Chaos, Retires Happy</title>
+      <link>https://motomatters.com/analysis/2026/11/27/valencia_motogp_friday_round_up_marc.html</link>
+      <guid isPermaLink="true">https://motomatters.com/analysis/2026/11/27/valencia_motogp_friday_round_up_marc.html</guid>
+      <pubDate>Sat, 28 Nov 2026 00:45:51 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motomatters-velocita.xml">MotoMatters</source>
+    </item>
     <item>
       <title>Marc Marquez Retirement In His Own Words: Valencia Retirement Press Conference Transcript</title>
       <link>https://motomatters.com/interview/2026/11/27/marc_marquez_retirement_in_his_own_words.html</link>
@@ -1396,13 +1403,6 @@
       <title>Moto3, Benat Fernandez: il debutto mondiale… di un Campione del Mondo</title>
       <link>https://www.motosprint.it/news/motomondiale/moto3/2026/11/25-9328395/moto3_benat_fernandez_il_debutto_mondiale_di_un_campione_del_mondo</link>
       <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto3/2026/11/25-9328395/moto3_benat_fernandez_il_debutto_mondiale_di_un_campione_del_mondo</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
-    </item>
-    <item>
-      <title>Giacomo Agostini prova a fare pace tra Rossi e Marquez: "Li invito a cena e offro io"</title>
-      <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331272/giacomo_agostini_prova_a_fare_pace_tra_rossi_e_marquez_li_invito_a_cena_e_offro_io</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9331272/giacomo_agostini_prova_a_fare_pace_tra_rossi_e_marquez_li_invito_a_cena_e_offro_io</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
