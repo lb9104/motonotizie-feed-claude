@@ -5,7 +5,28 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:21:39 +0000</lastBuildDate>
+    <item>
+      <title>Atto finale di carriera: Marc Marquez spietato anche nel ritiro dalla MotoGP</title>
+      <link>https://www.speedweek.com/a/motogp/karriere-schlussakt-marc-marquez-auch-beim-motogp-ruecktritt-gnadenlos</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/karriere-schlussakt-marc-marquez-auch-beim-motogp-ruecktritt-gnadenlos</guid>
+      <pubDate>Sat, 28 Nov 2026 08:16:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>Somkiat Chantra operato a Bangkok con successo mentre Dixon girava a Jerez</title>
+      <link>https://www.speedweek.com/a/superbike-wm/somkiat-chantra-operation-erfolgreich-superbike-wm</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/superbike-wm/somkiat-chantra-operation-erfolgreich-superbike-wm</guid>
+      <pubDate>Sat, 28 Nov 2026 06:28:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>MotoGP Valencia: dove seguire in diretta la Sprint e le sessioni di tutte le classi</title>
+      <link>https://www.speedweek.com/a/motogp/motogp-sprint-valencia-live-uebertragung</link>
+      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/motogp-sprint-valencia-live-uebertragung</guid>
+      <pubDate>Sat, 28 Nov 2026 06:22:00 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
     <item>
       <title>Valencia MotoGP Friday Round Up: Marc Marquez Causes Chaos, Retires Happy</title>
       <link>https://motomatters.com/analysis/2026/11/27/valencia_motogp_friday_round_up_marc.html</link>
@@ -1384,27 +1405,6 @@
       <guid isPermaLink="true">https://www.todocircuito.com/noticias/43599-marc-marquez-confiesa-lo-que-nadie-veia-detras-de-sus-victorias:-no-me-salia-a-sonreir.html</guid>
       <pubDate>Wed, 25 Nov 2026 12:52:40 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>David Alonso ha una nuova moto ed è la prima di una serie limitata a 1.000 esemplari</title>
-      <link>https://www.todocircuito.com/noticias/43598-david-alonso-tiene-una-nueva-moto-y-es-la-primera-de-una-serie-limitada-a-1.000-unidades.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43598-david-alonso-tiene-una-nueva-moto-y-es-la-primera-de-una-serie-limitada-a-1.000-unidades.html</guid>
-      <pubDate>Wed, 25 Nov 2026 12:30:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Marc Márquez's nerves and tears: diary of his historic MotoGP race weekend</title>
-      <link>https://www.motorsportmagazine.com/articles/motorcycles/motogp/marc-marquezs-nerves-and-tears-diary-of-his-historic-motogp-race-weekend/</link>
-      <guid isPermaLink="true">https://www.motorsportmagazine.com/articles/motorcycles/motogp/marc-marquezs-nerves-and-tears-diary-of-his-historic-motogp-race-weekend/</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsportmagazine-motogp.xml">Motor Sport Magazine</source>
-    </item>
-    <item>
-      <title>Valentino Rossi e il consiglio a Kimi Antonelli: "Era disperato"</title>
-      <link>https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9330191/valentino_rossi_e_il_consiglio_a_kimi_antonelli_era_disperato</link>
-      <guid isPermaLink="true">https://www.motosprint.it/news/motomondiale/moto-gp/2026/11/25-9330191/valentino_rossi_e_il_consiglio_a_kimi_antonelli_era_disperato</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosprint-velocita.xml">Motosprint</source>
     </item>
   </channel>
 </rss>
