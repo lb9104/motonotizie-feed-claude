@@ -5,7 +5,35 @@
     <link>https://lb9104.github.io/motonotizie-feed-claude/</link>
     <description>Tutte le notizie dei feed di motociclismo riunite in uno solo, ordinate per data; la fonte è indicata nell'elemento source di ogni notizia (feed non ufficiale)</description>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:22:05 +0000</lastBuildDate>
+    <item>
+      <title>Iker Lecuona apre al ritorno in MotoGP: "C'è un'opportunità, decide Ducati"</title>
+      <link>https://www.corsedimoto.com/motogp/iker-lecuona-ritorno-motogp-mercato-piloti-ducati-marquez</link>
+      <guid isPermaLink="true">https://www.corsedimoto.com/motogp/iker-lecuona-ritorno-motogp-mercato-piloti-ducati-marquez</guid>
+      <pubDate>Sat, 28 Nov 2026 09:21:55 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>Kawasaki Supersport, Masià subito il più veloce a Jerez dopo l'addio alla Ducati: «Abbiamo tutto per il 2027»</title>
+      <link>https://www.corsedimoto.com/in-pista/kawasaki-supersport-masia-subito-il-piu-veloce-a-jerez-dopo-laddio-alla-ducati-abbiamo-tutto-per-il-2027</link>
+      <guid isPermaLink="true">https://www.corsedimoto.com/in-pista/kawasaki-supersport-masia-subito-il-piu-veloce-a-jerez-dopo-laddio-alla-ducati-abbiamo-tutto-per-il-2027</guid>
+      <pubDate>Sat, 28 Nov 2026 09:21:55 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
+    </item>
+    <item>
+      <title>«Liveticker MotoGP Valencia: l'ultimo sabato sprint dell'anno»</title>
+      <link>https://www.motorsport-total.com/motogp/news/motogp-liveticker-valencia-der-letzte-sprintsamstag-des-jahres-26112802</link>
+      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/motogp-liveticker-valencia-der-letzte-sprintsamstag-des-jahres-26112802</guid>
+      <pubDate>Sat, 28 Nov 2026 09:14:36 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
+    </item>
+    <item>
+      <title>«Occhio agli orari e dove seguire gratis oggi la Pole e la Sprint Race del GP di Valencia MotoGP 2026»</title>
+      <link>https://www.motosan.es/motogp/ojo-a-los-horarios-y-donde-ver-y-seguir-gratis-hoy-la-pole-y-sprint-race-de-valencia-motogp-2026/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motogp/ojo-a-los-horarios-y-donde-ver-y-seguir-gratis-hoy-la-pole-y-sprint-race-de-valencia-motogp-2026/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:14 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
+    </item>
     <item>
       <title>Atto finale di carriera: Marc Marquez spietato anche nel ritiro dalla MotoGP</title>
       <link>https://www.speedweek.com/a/motogp/karriere-schlussakt-marc-marquez-auch-beim-motogp-ruecktritt-gnadenlos</link>
@@ -47,6 +75,13 @@
       <guid isPermaLink="true">https://www.speedweek.com/a/motogp/motogp-ohne-superstar-bradl-ueber-marquez-verlust</guid>
       <pubDate>Fri, 27 Nov 2026 22:22:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
+    </item>
+    <item>
+      <title>«MotoGP 2027: MotorLand lancia un'offerta Black Friday con accesso anche alla WorldSBK»</title>
+      <link>https://www.motosan.es/motos/motogp-2027-motorland-lancia-una-oferta-de-black-friday-con-acceso-tambien-a-worldsbk/</link>
+      <guid isPermaLink="true">https://www.motosan.es/motos/motogp-2027-motorland-lancia-una-oferta-de-black-friday-con-acceso-tambien-a-worldsbk/</guid>
+      <pubDate>Fri, 27 Nov 2026 22:00:38 +0100</pubDate>
+      <source url="https://lb9104.github.io/motonotizie-feed-claude/motosan-corse.xml">Motosan</source>
     </item>
     <item>
       <title>Martin: "Marquez tra i migliori atleti della storia, lo paragono a Michael Jordan". VIDEO</title>
@@ -1370,41 +1405,6 @@
       <guid isPermaLink="true">https://www.corsedimoto.com/in-pista/manu-gonzalez-il-mondiale-trema</guid>
       <pubDate>Wed, 25 Nov 2026 15:22:00 +0100</pubDate>
       <source url="https://lb9104.github.io/motonotizie-feed-claude/corsedimoto-velocita.xml">Corsedimoto</source>
-    </item>
-    <item>
-      <title>Di Giannantonio sui problemi della domenica: «Completamente fuori dal nostro controllo»</title>
-      <link>https://www.motorsport-total.com/motogp/news/di-giannantonio-ueber-sonntagsprobleme-komplett-ausserhalb-unserer-kontrolle-26112502</link>
-      <guid isPermaLink="true">https://www.motorsport-total.com/motogp/news/di-giannantonio-ueber-sonntagsprobleme-komplett-ausserhalb-unserer-kontrolle-26112502</guid>
-      <pubDate>Wed, 25 Nov 2026 14:01:23 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/motorsport-total-motorrad.xml">Motorsport-Total</source>
-    </item>
-    <item>
-      <title>Ha 40 anni, è ritirato da quattro e tornerà a correre con una Ducati Panigale V4 R</title>
-      <link>https://www.todocircuito.com/noticias/43601-tiene-40-anos-lleva-cuatro-retirado-y-ahora-volvera-a-correr-con-una-ducati-panigale-v4-r.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43601-tiene-40-anos-lleva-cuatro-retirado-y-ahora-volvera-a-correr-con-una-ducati-panigale-v4-r.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:53:14 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Gresini mantiene la scommessa sulla Spagna in Moto2, ma cambia uno dei suoi piloti per il 2027</title>
-      <link>https://www.todocircuito.com/noticias/43600-gresini-mantiene-su-apuesta-por-espana-en-moto2-pero-cambia-a-uno-de-sus-pilotos-para-2027.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43600-gresini-mantiene-su-apuesta-por-espana-en-moto2-pero-cambia-a-uno-de-sus-pilotos-para-2027.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:27:59 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
-    </item>
-    <item>
-      <title>Il campione MotoGP Marc Marquez su VR46: «Rossi non mi ha fatto le congratulazioni»</title>
-      <link>https://www.speedweek.com/a/motogp/marc-marquez-rossi-nicht-gratuliert</link>
-      <guid isPermaLink="true">https://www.speedweek.com/a/motogp/marc-marquez-rossi-nicht-gratuliert</guid>
-      <pubDate>Wed, 25 Nov 2026 13:12:00 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/speedweek-velocita.xml">Speedweek</source>
-    </item>
-    <item>
-      <title>Marc Márquez confessa ciò che nessuno vedeva dietro le sue vittorie: «Non mi veniva da sorridere»</title>
-      <link>https://www.todocircuito.com/noticias/43599-marc-marquez-confiesa-lo-que-nadie-veia-detras-de-sus-victorias:-no-me-salia-a-sonreir.html</link>
-      <guid isPermaLink="true">https://www.todocircuito.com/noticias/43599-marc-marquez-confiesa-lo-que-nadie-veia-detras-de-sus-victorias:-no-me-salia-a-sonreir.html</guid>
-      <pubDate>Wed, 25 Nov 2026 12:52:40 +0100</pubDate>
-      <source url="https://lb9104.github.io/motonotizie-feed-claude/todocircuito-velocita.xml">Todocircuito</source>
     </item>
   </channel>
 </rss>
